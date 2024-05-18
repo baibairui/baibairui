@@ -2,6 +2,9 @@
 
 **What Can I Say**
 
+## Acadamic Page
+
+:* **[Bai Rui](https://baibairui.github.io/)**
 ## Where is me?
 **在图书馆当~~变态~~**
 - [X] **9:00-12:00**
