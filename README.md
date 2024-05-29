@@ -2,24 +2,9 @@
 
 **What Can I Say**
 
-## Acadamic Page
+- 😗 **[Bai Rui](https://baibairui.github.io/)**
 
-😗 **[Bai Rui](https://baibairui.github.io/)**
-
-## Where is me?
-**在图书馆当~~XXXX~~**
-
-📖 **9:00-12:00**
-
-📖 **15:00-22:00**
-
-**在其他地方当~~XXXX~~**
-
-🚴‍♂️ **12:00-15:00**
-
-**在梦里当~~xxxx~~**
-
-😴 **24:00-8:30**
+- 🌱 I’m currently learning ...
 
 <!--
 **baibairui/baibairui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
