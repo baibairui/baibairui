@@ -1,7 +1,7 @@
 
 
   <h1>😗 <a href="https://baibairui.github.io/">Bai Rui</a></h1>
-<h2><center> I am Learning </center> </h2>
+<h2><center> 我是fw </center> </h2>
   <div class="icons">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
     <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA">
