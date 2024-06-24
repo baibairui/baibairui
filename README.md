@@ -1,6 +1,7 @@
 
 
   <h1>😗 <a href="https://baibairui.github.io/">Bai Rui</a></h1>
+  <a href="https://blog.csdn.net/bairui6666?spm=1011.2648.3001.5343">baibairui here</a>
 <h2><center> 我是fw </center> </h2>
   <div class="icons">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
