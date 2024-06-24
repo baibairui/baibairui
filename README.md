@@ -2,7 +2,7 @@
 
   <h1>😗 <a href="https://baibairui.github.io/">Bai Rui</a></h1>
   
-<h2><center> <a href="https://blog.csdn.net/bairui6666?spm=1011.2648.3001.5343">baibairui here</a> </center> </h2>
+<h2><center> <a href="https://blog.csdn.net/bairui6666?spm=1011.2648.3001.5343">Learning</a> </center> </h2>
   <div class="icons">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
     <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA">
