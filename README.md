@@ -21,6 +21,7 @@
     <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV">
     <img src="https://skillicons.dev/icons?i=maven" alt="Maven">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+    <img src="https://skillicons.dev/icons?i=vim" alt="Spring">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
     <img src="https://skillicons.dev/icons?i=git" alt="Git">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
