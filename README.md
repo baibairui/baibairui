@@ -39,13 +39,6 @@
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash">
     <img src="https://skillicons.dev/icons?i=vim" alt="Vim">
   </div>
-
-
- 
-<h2> My Languages</h2>
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baibairui&layout=compact&theme=tokyonight)
-
 </body>
 </html>
 
