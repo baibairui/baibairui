@@ -1,49 +1,46 @@
+<div align="center">
 
+# Hi, I'm Bai Rui 👋
 
-  <h1>😗 <a href="https://baibairui.github.io/">Bai Rui</a></h1>
+CS student at Xiamen University Malaysia, based in KL.<br>
+I build small tools, agent workflows, and automation that saves a few clicks.<br>
+Sometimes I write code. Sometimes I fix computers. `修电脑` is also a skill.
 
-- 🔭 I’m currently learning in **Xiamen University Malaysia**.
-- 🌱 I’m major in **Computer Science and Technology**.
-- 💬 Ask me about anything related to `修电脑`.
-- 📫 How to reach me: CST2209134@xmu.edu.my
+[![Website](https://img.shields.io/badge/website-baibairui.github.io-0969da?style=flat-square)](https://baibairui.github.io/)
+[![Email](https://img.shields.io/badge/email-CST2209134%40xmu.edu.my-0a7ea4?style=flat-square)](mailto:CST2209134@xmu.edu.my)
+[![CSDN](https://img.shields.io/badge/blog-CSDN-f97316?style=flat-square)](https://blog.csdn.net/bairui6666)
 
-<br>
+</div>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baibairui)](https://git.io/streak-stats)
- 
-`you are my` ![Visitor Count](https://profile-counter.glitch.me/baibairui/count.svg) `visitor` :heart_eyes:
+## About Me
 
+- Studying Computer Science and Technology at XMUM.
+- Exploring local AI agents, chat gateways, browser automation, and desktop automation.
+- I like turning repeated manual workflows into scripts, skills, or tiny products.
+- Daily stack: TypeScript, Java, Python, C/C++, Vue, MySQL, Linux, and Git.
 
-<h2><center> <a href="https://blog.csdn.net/bairui6666?spm=1011.2648.3001.5343">Learning</a> </center> </h2>
+## Things I'm Building
 
-  <div class="icons">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python">
-    <img src="https://skillicons.dev/icons?i=c" alt="C">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java">
-    <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX">
-    <img src="https://skillicons.dev/icons?i=md" alt="Markdown">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-    <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn">
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV">
-    <img src="https://skillicons.dev/icons?i=maven" alt="Maven">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-    <img src="https://skillicons.dev/icons?i=vim" alt="Spring">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash">
-    <img src="https://skillicons.dev/icons?i=vim" alt="Vim">
-  </div>
-</body>
-</html>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [WoClaw](https://github.com/baibairui/WoClaw) | A self-hosted agent gateway for connecting agents to real chat/work channels. | TypeScript |
+| [macos-gui-skill](https://github.com/baibairui/macos-gui-skill) | A skill that lets agents operate macOS desktop apps. | JavaScript |
+| [XMUM-FYP-Template](https://github.com/baibairui/XMUM-FYP-Template) | A LaTeX template for XMUM final year projects. | TeX |
+| [Maze-Game](https://github.com/baibairui/Maze-Game) | A Java maze game from my coursework era. | Java |
 
+## Toolbox
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,vue,html,css,mysql,git,github,linux,bash,nodejs,npm,vscode,idea" alt="TypeScript, JavaScript, Java, Python, C, C++, Vue, HTML, CSS, MySQL, Git, GitHub, Linux, Bash, Node.js, npm, VSCode, IntelliJ IDEA" />
+</p>
 
+## GitHub Snapshot
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=baibairui&show_icons=true&theme=transparent&hide_border=true" alt="Bai Rui's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baibairui&layout=compact&theme=transparent&hide_border=true" alt="Bai Rui's top languages" />
+</div>
 
-
+<div align="center">
+  <sub>Thanks for dropping by. I was probably debugging something.</sub>
+</div>
