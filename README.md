@@ -19,14 +19,6 @@ Sometimes I write code. Sometimes I fix computers. `修电脑` is also a skill.
 - I like turning repeated manual workflows into scripts, skills, or tiny products.
 - Daily stack: TypeScript, Java, Python, C/C++, Vue, MySQL, Linux, and Git.
 
-## Things I'm Building
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [WoClaw](https://github.com/baibairui/WoClaw) | A self-hosted agent gateway for connecting agents to real chat/work channels. | TypeScript |
-| [macos-gui-skill](https://github.com/baibairui/macos-gui-skill) | A skill that lets agents operate macOS desktop apps. | JavaScript |
-| [XMUM-FYP-Template](https://github.com/baibairui/XMUM-FYP-Template) | A LaTeX template for XMUM final year projects. | TeX |
-| [Maze-Game](https://github.com/baibairui/Maze-Game) | A Java maze game from my coursework era. | Java |
 
 ## Toolbox
 
