@@ -28,10 +28,14 @@ Sometimes I write code. Sometimes I fix computers. `修电脑` is also a skill.
 
 ## GitHub Snapshot
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=baibairui&show_icons=true&theme=transparent&hide_border=true" alt="Bai Rui's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baibairui&layout=compact&theme=transparent&hide_border=true" alt="Bai Rui's top languages" />
-</div>
+<p>
+  <a href="https://github.com/baibairui?tab=followers"><img src="https://img.shields.io/github/followers/baibairui?label=followers&style=flat-square&color=0969da" alt="GitHub followers" /></a>
+  <a href="https://github.com/baibairui?tab=repositories"><img src="https://img.shields.io/badge/public_repos-16-0a7ea4?style=flat-square" alt="16 public repositories" /></a>
+  <a href="https://github.com/baibairui/WoClaw"><img src="https://img.shields.io/github/stars/baibairui/WoClaw?label=WoClaw%20stars&style=flat-square&color=f97316" alt="WoClaw stars" /></a>
+</p>
+
+- Most of my recent work is around local agent tooling, chat gateways, and automation skills.
+- I use this profile as a small map of what I am learning, building, and debugging.
 
 <div align="center">
   <sub>Thanks for dropping by. I was probably debugging something.</sub>
