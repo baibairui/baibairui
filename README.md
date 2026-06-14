@@ -19,6 +19,10 @@ Sometimes I write code. Sometimes I fix computers. `修电脑` is also a skill.
 - I like turning repeated manual workflows into scripts, skills, or tiny products.
 - Daily stack: TypeScript, Java, Python, C/C++, Vue, MySQL, Linux, and Git.
 
+## Highlights
+
+- Champion, 2025 Meituan AI Hackathon, challenge track.
+- Champion, 2026 Meituan NoCode Hackathon, evaluation product track.
 
 ## Toolbox
 
